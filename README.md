@@ -1,2 +1,2 @@
-# Data-Security-Java-RMI exercise
+# Data Security Course Assignments
 
